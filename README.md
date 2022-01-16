@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xzoz
 - 👀 I’m interested in genart | web3 | algo stables...
-- 🌱 I’m currently growing ...
+- 🌱 PP created by [abraham.ai](https://abraham.ai/)
 - 📫 reach me zeroexzoz@gmail.com | zoz.eth
 
 <!---
