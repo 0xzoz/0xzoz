@@ -4,10 +4,10 @@
 
 Projects Contributed:
 
-**Tally Ho**
-**0L**
-**Mysten Labs**
-**TBD**
+* **Tally Ho**
+* **0L**
+* **Mysten Labs**
+* **TBD**
 
 <!---
 0xzoz/0xzoz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
