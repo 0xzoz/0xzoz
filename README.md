@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @0xzoz
 - 🌱 PP created by [abraham.ai](https://abraham.ai/)
-- 📫 reach me zoz@web3socialcapital.com | zoz.eth
+- 📫 reach me zoz@web3socialcapital.xyz | zoz.eth
 
 Projects Contributed:
 
